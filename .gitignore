@@ -1,3 +1,5 @@
 chromedp-proxy
 chromedp-proxy.exe
 logs/
+
+dist/
